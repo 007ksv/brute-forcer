@@ -35,4 +35,4 @@ except:
   print('file name was incorret')
 stop = time.time()
 
-print("[*] time taken "stop-start, "s")
+print("[*] time taken ",stop-start, "s")
